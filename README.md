@@ -3,7 +3,7 @@
 
 python demo_release -i {filename} #입력시 흑백 filename가 칼라로 바뀌어 저장됩니다!
 
-![Alt text](1-Original.jpg)
+![Alt text](1-Original.jpeg)
 ![Alt text](1-Gray.jpg)
 ![Alt text](1-ECCV16.png)
 ![Alt text](1-Output.png)
