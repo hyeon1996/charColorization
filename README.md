@@ -12,7 +12,7 @@ GT - 흑백 - ECCV16 - OUTPUT 순의 실험결과
 ![Alt text](1-ECCV16.png)
 ![Alt text](1-Output.png)
 
-![Alt text](2-Original.jpg)
+![Alt text](2-Original.jpeg)
 ![Alt text](2-Gray.jpg)
 ![Alt text](2-ECCV16.png)
 ![Alt text](2-Output.png)
